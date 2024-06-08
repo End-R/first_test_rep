@@ -12,5 +12,7 @@ public:
 int main()
 {
 	Human fHuman;
+	fHuman.name = "End";
+	cout << fHuman.name << endl;
 
 }
